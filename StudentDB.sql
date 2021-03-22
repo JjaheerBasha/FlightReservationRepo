@@ -12,5 +12,5 @@ select type,count(type)
 from location
 group by type;
 
-
+select * from location;
 
